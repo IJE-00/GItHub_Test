@@ -10,7 +10,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
+            background-color: black;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -19,7 +19,7 @@
         }
 
         .login-box {
-            background: white;
+            background: gray;
             padding: 30px;
             width: 300px;
             border-radius: 10px;
